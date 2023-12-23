@@ -8,21 +8,21 @@ This project aims to analyze the Licensed Childcare Centers in New Jersey, USA t
 
 # NJ Licensed Childcare Centers by County  
 
-<iframe src='static map1.png' width = '1000' height = '1000' ></iframe>
+<iframe src='static map1.png' width = '560' height = '315' ></iframe>
 
 # NJ Licensed Childcare Centers per 100k Residents  
 
-<iframe src='static map2.png' width = '1000' height = '1200' ></iframe>
+<iframe src='static map2.png' width = '560' height = '315' ></iframe>
 
 # NJ Licensed Childcare Centers: Five Mile Transit Accessibility by County  
 
-<iframe src='static map3.png' width = '1000' height = '1200' ></iframe>
+<iframe src='static map3.png' width = '560' height = '315' ></iframe>
 
 ## INTERACTIVE MAP  
 
 # NJ Licensed Childcare Centers Web Map
 
-<iframe src='nj_childcare_centers.html' width = '1000' height = '1000' ></iframe>
+<iframe src='nj_childcare_centers.html' width = '560' height = '315' ></iframe>
 
 You can also explore [this map as its own web page here](nj_childcare_centers.html)
 
