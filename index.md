@@ -12,11 +12,11 @@ This project aims to analyze the Licensed Childcare Centers in New Jersey, USA t
 
 # NJ Licensed Childcare Centers per 100k Residents  
 
-<iframe src='static map2.png' width = '1000' height = '1000' ></iframe>
+<iframe src='static map2.png' width = '1000' height = '1200' ></iframe>
 
 # NJ Licensed Childcare Centers: Five Mile Transit Accessibility by County  
 
-<iframe src='static map3.png' width = '1000' height = '1000' ></iframe>
+<iframe src='static map3.png' width = '1000' height = '1200' ></iframe>
 
 ## INTERACTIVE MAP  
 
