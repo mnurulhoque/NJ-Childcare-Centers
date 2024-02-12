@@ -50,5 +50,5 @@ I have collected the dataset from the New Jersey Office of Information Technolog
 You can also explore [this map as its own web page here](nj_childcare_centers.html)
 
 # Code File
-## [Data Wrangling] (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Final_Project-Part1_MNH.ipynb)
+## [Data Wrangling](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Final_Project-Part1_MNH.ipynb)
 
