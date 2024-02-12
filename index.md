@@ -5,11 +5,16 @@ This project was conducted as the final project required by the 'Seminar in Publ
 
 # Data Sets
 [NJ licensed childcare centers] as csv file (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Childcare_Centers.csv) Source (https://data.nj.gov/Public-Safety/Licensed-Child-Care-Centers/cru5-4rmm)
+
 [NJ counties] as geojson file (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/NJ_Counties_NGJIN_2021.geojson)
 [Bus stops of NJ transit] as geojson file (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Bus_Stops_of_NJ_Transit_by_Line.geojson)
+
 [Light rail stations of NJ transit] as geojson file (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Light_Rail_Stations_of_NJ_Transit.geojson)
+
 [Passenger rail stations] as geojson file (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Passenger_Rail_Stations.geojson)
+
 [Path stationlocations] as geojson file (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Path%20Station%20Locations.geojson)
+
 [Rail stations of NJ transit] as geojson file (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Rail_Stations_of_NJ_Transit.geojson)
 
 # Resources & Tools Used
