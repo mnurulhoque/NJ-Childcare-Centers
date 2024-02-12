@@ -48,3 +48,7 @@ I have collected the dataset from the New Jersey Office of Information Technolog
 <iframe src='nj_childcare_centers.html' width = '1000' height = '1000' ></iframe>
 
 You can also explore [this map as its own web page here](nj_childcare_centers.html)
+
+# Code File
+## [Data Wrangling] (https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Final_Project-Part1_MNH.ipynb)
+
