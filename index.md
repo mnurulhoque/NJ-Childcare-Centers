@@ -4,19 +4,19 @@
 This project was conducted as the final project required by the 'Seminar in Public Informatcs (Command Line Geographic Information System' course at E.J. Bloustein School of Planning and Public Policy, Rutgers University. This project aims to analyze the Licensed Childcare Centers in New Jersey, USA through Spatial Analysis tools. 
 
 # Data Sets
-[NJ licensed childcare centers](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Childcare_Centers.csv) Source (https://data.nj.gov/Public-Safety/Licensed-Child-Care-Centers/cru5-4rmm)
+[NJ licensed childcare centers](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Childcare_Centers.csv) as csv file 
 
-[NJ counties](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/NJ_Counties_NGJIN_2021.geojson)
+[NJ counties](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/NJ_Counties_NGJIN_2021.geojson) as geojson file 
 
-[Bus stops of NJ transit](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Bus_Stops_of_NJ_Transit_by_Line.geojson)
+[Bus stops of NJ transit](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Bus_Stops_of_NJ_Transit_by_Line.geojson) as geojson file 
 
-[Light rail stations of NJ transit](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Light_Rail_Stations_of_NJ_Transit.geojson)
+[Light rail stations of NJ transit](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Light_Rail_Stations_of_NJ_Transit.geojson) as geojson file 
 
-[Passenger rail stations](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Passenger_Rail_Stations.geojson)
+[Passenger rail stations](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Passenger_Rail_Stations.geojson) as geojson file 
 
-[Path stationlocations](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Path%20Station%20Locations.geojson)
+[Path stationlocations](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Path%20Station%20Locations.geojson) as geojson file 
 
-[Rail stations of NJ transit](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Rail_Stations_of_NJ_Transit.geojson)
+[Rail stations of NJ transit](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Rail_Stations_of_NJ_Transit.geojson) as geojson file 
 
 # Resources & Tools Used
 Core programming language: Python
