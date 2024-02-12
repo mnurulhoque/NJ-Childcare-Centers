@@ -43,9 +43,10 @@ I have collected the dataset from the New Jersey Office of Information Technolog
 
 ## INTERACTIVE MAP  
 
-# NJ Licensed Childcare Centers Web Map
-
 You can explore [the interactive web map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
+
+# Policy Implications
+This spatial analysis of licensed childcare centers in New Jersey, USA offers critical insights that have significant policy implications for urban planning, public transportation, and childcare services. The distribution of childcare centers relative to population density, their accessibility via public transit, and the proximity to residential areas provide a foundation for informed decision-making in in the mentioned policy areas. By leveraging such insights, policymakers can devise strategies that not only address the immediate needs of families for childcare but also contribute to the long-term welfare and development of communities across New Jersey.
 
 # Code File
 ## [Data Wrangling](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Final_Project-Part1_MNH.ipynb)
