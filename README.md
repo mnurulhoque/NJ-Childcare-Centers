@@ -26,7 +26,7 @@ Development environment: Jupyter Notebook
 Libraries & packages: pandas, geopandas, pygeos, arcgis, shapely, folium, mapclassify, matplotlib
 
 # Data Wrangling 
-I have collected the dataset from the New Jersey Office of Information Technology (NJOIT) Open Data Center (source link: https://data.nj.gov/Public-Safety/Licensed-Child-Care-Centers/cru5-4rmm). The dataset was downloaded as csv file. There was no geographic coordinates information in the dataset. I had to convert the address and ZIP codes into geographic coordinates through geocoding. I also had to explore Spatial Joins, and Geoprocessing tools like Buffer, Clip, Union Overlay Operation, Unary Union etc. to make the data appropriate to generate the desired maps. Finally, I encountered a bug in the heatmap of the interactive map. I solved that issue by adjusting the heatmap layer style in the HTML codes.
+I have collected the dataset from the New Jersey Office of Information Technology (NJOIT) Open Data Center (source link: https://data.nj.gov/Public-Safety/Licensed-Child-Care-Centers/cru5-4rmm). The dataset was downloaded as csv file. There was no geographic coordinates information in the dataset. I converted the address and ZIP codes into geographic coordinates through geocoding. I also used Spatial Joins, and Geoprocessing tools like Buffer, Clip, Union Overlay Operation, Unary Union etc. to make the data appropriate to generate the desired maps. Finally, I encountered a bug in the heatmap of the interactive map. I solved that issue by adjusting the heatmap layer style in the HTML codes.
 
 # Data Analysis
 
@@ -47,7 +47,7 @@ I have collected the dataset from the New Jersey Office of Information Technolog
 
 <iframe src='nj_childcare_centers.html' width = '1000' height = '1000' ></iframe>
 
-You can also explore [this map as its own web page here](nj_childcare_centers.html)
+You can also explore [this map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
 
 # Code File
 ## [Data Wrangling](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Final_Project-Part1_MNH.ipynb)
