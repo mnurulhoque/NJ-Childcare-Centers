@@ -33,16 +33,13 @@ I have collected the dataset from the New Jersey Office of Information Technolog
 ## STATIC MAPS
 
 ## NJ Licensed Childcare Centers by County  
-
-<iframe src='static map1.png' width = '1000' height = '1000' ></iframe>
+![static map1](https://github.com/mnurulhoque/NJ-Childcare-Centers/assets/152673435/340ebad6-df60-482f-8eeb-452bb042a8c5)
 
 ## NJ Licensed Childcare Centers per 100k Residents  
-
-<iframe src='static map2.png' width = '1000' height = '1300' ></iframe>
+![static map2](https://github.com/mnurulhoque/NJ-Childcare-Centers/assets/152673435/6377a934-d0f5-4924-a1f4-ee463456fd94)
 
 ## NJ Licensed Childcare Centers: Five Mile Transit Accessibility by County  
-
-<iframe src='static map3.png' width = '1000' height = '1300' ></iframe>
+![static map3](https://github.com/mnurulhoque/NJ-Childcare-Centers/assets/152673435/736c4625-79fb-4c1d-90c3-3945de4dd8ed)
 
 ## INTERACTIVE MAP  
 
