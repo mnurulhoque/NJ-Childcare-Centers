@@ -45,9 +45,7 @@ I have collected the dataset from the New Jersey Office of Information Technolog
 
 # NJ Licensed Childcare Centers Web Map
 
-!https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/nj_childcare_centers.html
-
-You can also explore [this map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
+You can explore [the interactive web map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
 
 # Code File
 ## [Data Wrangling](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Final_Project-Part1_MNH.ipynb)
