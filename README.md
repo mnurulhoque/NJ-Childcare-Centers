@@ -45,7 +45,7 @@ I have collected the dataset from the New Jersey Office of Information Technolog
 
 # NJ Licensed Childcare Centers Web Map
 
-<iframe src='nj_childcare_centers.html' width = '1000' height = '1000' ></iframe>
+!<iframe src='nj_childcare_centers.html' width = '1000' height = '1000' ></iframe>
 
 You can also explore [this map as its own web page here](https://mnurulhoque.github.io/NJ-Childcare-Centers/nj_childcare_centers.html)
 
