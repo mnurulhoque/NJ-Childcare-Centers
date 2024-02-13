@@ -23,7 +23,7 @@ Core programming language: Python
 
 Development environment: Jupyter Notebook
 
-Libraries & packages: pandas, geopandas, pygeos, arcgis, shapely, folium, mapclassify, matplotlib
+Libraries & packages: pandas, geopandas, pygeos, arcgis, arcpy, geocoder, shapely, folium, mapclassify, matplotlib, plotly, OSMNX
 
 # Data Wrangling 
 I have collected the dataset from the New Jersey Office of Information Technology (NJOIT) Open Data Center (source link: https://data.nj.gov/Public-Safety/Licensed-Child-Care-Centers/cru5-4rmm). The dataset was downloaded as csv file. There was no geographic coordinates information in the dataset. I converted the address and ZIP codes into geographic coordinates through geocoding. I also used Spatial Joins, and Geoprocessing tools like Buffer, Clip, Union Overlay Operation, Unary Union etc. to make the data appropriate to generate the desired maps. Finally, I encountered a bug in the heatmap of the interactive map. I solved that issue by adjusting the heatmap layer style in the HTML codes.
