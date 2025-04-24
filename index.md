@@ -19,6 +19,8 @@ This project was conducted as the final project required by the 'Seminar in Publ
 [Rail stations of NJ transit](https://github.com/mnurulhoque/NJ-Childcare-Centers/blob/main/Rail_Stations_of_NJ_Transit.geojson) as geojson file 
 
 # Resources & Tools Used
+ESRI Tools: ArcGIS Pro
+
 Core programming language: Python
 
 Development environment: Jupyter Notebook
